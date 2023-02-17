@@ -8,7 +8,7 @@
   <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Re-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Re-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Re-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/894725961164132362/894725961164132368/1075947134374912030">
+  <img align="right" alt="Re-pic" height="150" style="border-radius:50px;" src="[https://discord.com/channels/894725961164132362/894725961164132368/1075947134374912030](https://www.canva.com/design/DAFayQfeUwM/d4fzrGDHtJ_Ri87z92wT_Q/edit?utm_content=DAFayQfeUwM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
 </div>
   
   ##
